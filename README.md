@@ -21,8 +21,9 @@ cd BrandEngine
 ```
 
 2. Ensure you have Python 3.10+ installed and added to PATH then double click to open the `build.bat` or well known as `build` Windows Batch File and let it install all the required Python dependencies and also generate the executable file.
+
 ![Build Complete](Complete.png)
 
-3. Locate the exe file `dist\BrandEngine.exe` and open it.
+4. Locate the exe file `dist\BrandEngine.exe` and open it.
 
 ### UI
