@@ -1,0 +1,9 @@
+customtkinter==6.0.0
+Pillow==12.3.0
+whois==1.20240129.2
+requests==2.34.2
+pytest==7.4.0
+python-Levenshtein==0.27.3
+openpyxl==3.1.5
+pandas==2.3.3
+pyinstaller==6.21.0
