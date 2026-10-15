@@ -57,12 +57,12 @@ Get-Item assets\icon.ico | Select-Object Name, Length
 
 
 ## License
-This project is licensed under the GNU License. View License [here](https://github.com/Yavotu/BrandEngine/blob/main/LICENSE).  
+This project is licensed under the GNU License. View License [here](https://github.com/Lewismwaz/BrandEngine/blob/main/LICENSE).  
 More details about the MIT License can be found [here.](https://choosealicense.com/licenses/mit/)
 
 ## Contact
 For any inquiries, please contact:
-- Email - <yavotu@gmail.com> or <eappointmaster@gmail.com>
-- GitHub - [@Yavotu](https://github.com/Yavotu) or [@Lewismwaz](https://github.com/Lewismwaz)
+- Email - <eappointmaster@gmail.com> or <yavotu@gmail.com>
+- GitHub - [@Lewismwaz](https://github.com/Lewismwaz) or [@Yavotu](https://github.com/Yavotu)
 
-[Brand Engine](https://github.com/Yavotu/BrandEngine) **©** 2026, All Rights Reserved
+[Brand Engine](https://github.com/Lewismwaz/BrandEngine) **©** 2026, All Rights Reserved
