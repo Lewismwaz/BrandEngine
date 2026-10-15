@@ -24,6 +24,6 @@ cd BrandEngine
 
 ![Build Complete](Complete.png)
 
-4. Locate the exe file `dist\BrandEngine.exe` and open it.
+3. Locate the exe file `dist\BrandEngine.exe` and open it.
 
 ### UI
