@@ -57,8 +57,8 @@ Get-Item assets\icon.ico | Select-Object Name, Length
 
 
 ## License
-This project is licensed under the GNU License. View License [here](https://github.com/Lewismwaz/BrandEngine/blob/main/LICENSE).  
-More details about the MIT License can be found [here.](https://choosealicense.com/licenses/mit/)
+This project is licensed under the GPL License. View License [here](https://github.com/Lewismwaz/BrandEngine/blob/main/LICENSE).  
+More details about the License can be found [here.](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Contact
 For any inquiries, please contact:
