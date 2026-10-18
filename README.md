@@ -20,7 +20,7 @@ A sophisticated brand name generator with domain availability checking, scoring,
 > If you prefer not to customize the repository files, you can simply download the standalone bundled executable file for BrandEngine [here](https://github.com/yavotu/BrandEngine/releases).
 
 
-1. Clone the repository:
+1. Clone/download Zip of the repository:
 ```bash
 git clone https://github.com/Lewismwaz/BrandEngine.git
 cd BrandEngine
