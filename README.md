@@ -25,7 +25,7 @@ A sophisticated brand name generator with domain availability checking, scoring,
 git clone https://github.com/Lewismwaz/BrandEngine.git
 cd BrandEngine
 ```
-- If `git` is not installed, simply go to `Code` and `Download zip`.
+- If `git` is not installed, simply go to `Code` then `Download ZIP`.
 
 ![Download repo zip](zip.png)
 
